@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">QuadraticCalculator</string>
+    <string name="labela">a :</string>
+    <string name="labelA">a :</string>
+    <string name="labelB">b :</string>
+    <string name="labelc">c :</string>
+    <string name="labelx1">x1 :</string>
+    <string name="labelx2">x2 :</string>
+    <string name="labelGo">Go</string>
+    <string name="labelclear">Clear</string>
+    <string name="labelTitle">Quadratic Calculator</string>
+</resources>
